@@ -1,0 +1,26 @@
+const products = [
+    { name: 'Bottles of Water', price: 0.25, vat: 8, discount: 0 },
+    { name: 'Chips', price: 2.40, vat: 8, discount: 0 },
+    { name: 'TV', price: 760, vat: 22, discount: 100 },
+    { name: 'Coca Cola', price: 0.50, vat: 18, discount: 0.10 },
+    { name: 'Chocolate Bars', price: 1.25, vat: 22, discount: 0 },
+    { name: 'Bottles of Hand Soap', price: 3.78, vat: 8, discount: 0 },
+    { name: 'Fish Meat', price: 8.30, vat: 18, discount: 0 },
+    { name: 'Packages of Humus', price: 2.66, vat:18, discount:0 },
+    { name: 'Bottles of White Wine', price: 9.20, vat: 18, discount: 0.02 },
+    { name: 'Bananas (per KG)', price: 1.25, vat: 22, discount: 0 },
+    { name: 'Bottles of Wine', price: 9.78, vat: 22, discount: 0 },
+    { name: 'Liters of Oil', price: 8.30, vat: 18, discount: 0 },
+    { name: 'Packages of Cigarettes', price: 5.46, vat: 22, discount: 0 },
+    { name: 'Packs of Cookies', price: 1.34, vat: 8, discount: 0 },
+    { name: 'Yogurts', price: 0.66, vat: 18, discount: 0 },
+    { name: 'Packages of Bleach', price: 1.23, vat: 22, discount: 0 },
+    { name: 'Packages of Napkins', price: 0.21, vat: 8, discount: 0 },
+    { name: 'Eggs (per piece)', price: 0.16, vat: 18, discount: 0 },
+    { name: 'Plastic Bags', price: 0.05, vat: 18, discount: 0 },
+    { name: 'Aluminum Foils', price: 1.12, vat: 8, discount: 0 },
+    { name: 'Razors', price: 8.10, vat: 8, discount:0 },
+    { name: 'Lotions', price: 12, vat: 22, discount: 0 },
+  ];
+
+  export {products};
